@@ -1,9 +1,9 @@
 ### Hi! 👋 I'm Ivan.
 
-An Undergraduate Computer Science Student College who loves to create and share projects about web and machine learning! I've enjoyed using ReactJS for Front-end and Go Language using Echo for Back-end. About Machine Learning I've enjoyed using Keras Tensorflow for building a model.
+An Undergraduate Computer Science Student College who loves to create and share projects about software engineering especially backend and data! I've enjoyed using Go and Python.
 
 - 🔭 I’m currently studying on <a href="https://www.its.ac.id/">@itssurabaya</a>
-- 🌱 I’m currently learning about machine learning with keras for image segmentation and classification
+- 🌱 I’m currently learning about data 
 - 💬 Feel free to ask me about my repository if there's any mistake
 - 📫 How to reach me: ivannizar@gmail.com
 
